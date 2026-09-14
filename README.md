@@ -1,2 +1,1 @@
-# kotlin-2026c
-동양미래대학교 2학년 모바일프로그래밍
+This remote repository manages code and materials related to the Mobile Programming course for the Fall 2026 semester.
